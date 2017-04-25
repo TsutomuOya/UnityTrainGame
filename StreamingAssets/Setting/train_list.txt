@@ -1,0 +1,3 @@
+shinkansen_kagayaki,shinkansen_kagayaki_icon
+shinkansen_hayabusa,shinkansen_icon
+shinkansen_doctoryellow,shinkansen_doctorYellow_icon
